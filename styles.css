@@ -1,0 +1,13 @@
+/* style="background-color: rgb(176, 114, 233);"
+style="background-color: rgb(75, 202, 202);"
+style="background-color: rgb(94, 212, 147);"
+style="background-color: rgb(250, 250, 73);" */
+
+.div1 {
+    display: inline-block;
+    width: 40%;
+}
+
+.container {
+    display: block;
+}
