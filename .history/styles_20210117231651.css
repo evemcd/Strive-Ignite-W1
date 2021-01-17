@@ -19,9 +19,9 @@ body {
     display: flex;
     flex-flow: column wrap;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     margin: 30px 0px 0px 150px;
-    width: 55%;
+    width: 60%;
 }
 
 .container-skills {

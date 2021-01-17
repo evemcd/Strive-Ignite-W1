@@ -11,24 +11,19 @@ body {
     margin: 0px 20px 0px 20px;
 }
 
-.div2 {
-    width: 25%;
-}
-
 .container {
     display: flex;
     flex-flow: column wrap;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     margin: 30px 0px 0px 150px;
-    width: 55%;
 }
 
 .container-skills {
     display: flex;
     flex-flow: column wrap;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     margin: 30px 0px 0px 150px;
 }
 
